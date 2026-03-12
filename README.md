@@ -2,15 +2,17 @@
 
 I'm a developer based in London, UK 🇬🇧. I specialize in high-performance system utilities and clean, modern web architecture.
 
-### 🔗 Links
-[**farito.dev**](https://farito.dev) • [**OptiTweaks.com**](https://optitweaks.com) • [**pharaohsfood.co.uk**](https://pharaohsfood.co.uk)
-
 ---
 
 ### 🛠️ Skills
 <p align="left">
 <a href="#"><img src="https://skillicons.dev/icons?i=cpp,qt,py,js,html,css,cloudflare,linux,windows,github,vscode,replit" /></a>
 </p>
+
+---
+
+### 🔗 Links
+[**farito.dev**](https://farito.dev) • [**OptiTweaks.com**](https://optitweaks.com) • [**pharaohsfood.co.uk**](https://pharaohsfood.co.uk)
 
 ---
 
