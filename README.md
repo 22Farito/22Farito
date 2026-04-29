@@ -1,6 +1,6 @@
 # Hi there, I'm Farito! 👋
 
-I'm a developer based in London, UK 🇬🇧. I build high-performance system utilities and modern web architecture.
+I'm a developer based in the UK 🇬🇧. I build high-performance system utilities and modern web architecture.
 
 ### 🛠️ Technical Skills
 <p align="left">
